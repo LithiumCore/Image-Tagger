@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="public_key">Fqcf+gUR+5EMSj8qMef4cWxH/yecBg7YCLjhM8QDs/ME7BqfrutZfFKxRZvA8hYTiZfYJZYmr/eA
+iAvuhHf63cJRnnQW/G4tKXksGXcRqIjxvEapLaaibnZS0oxXXPHXqb7q</string>
+
+    <string name="stripe_publishable_key">1234</string>
+    <string name="stripe_version">1.5</string>
+</resources>

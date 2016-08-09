@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">AndroidPayDemo</string>
+    <string name="action_settings">Settings</string>
+    <string name="purchase">Purchase</string>
+    <string name="product">Headset</string>
+    <string name="price">$9.99</string>
+    <string name="other_payment_methods">Not included in this POC Demo.</string>
+    <string name="android_pay_offer">Want to use Android Pay instead?\n Set it up using the Android Pay app, and you’ll be all set to pay.</string>
+    <string name="return_to_shop">Return to Shop</string>
+    <string name="confirm_button">Confirm Purchase</string>
+    <string name="loading">Loading...</string>
+    <string name="order_confirmation_message">Your order confirmation number is %1$s.\n\n Your order will be shipped and will arrive in 4 - 7 business days. </string>
+    <string name="thank_you">Thank You for Ordering from the Headset Store</string>
+    <string name="spending_limit_exceeded">You have exceeded your spending limit</string>
+    <string name="error_code">Error code: %d</string>
+    <string name="google_wallet_unavailable">Google Wallet is unavailable</string>
+    <string name="processing_message">Processing Transaction...</string>
+</resources>

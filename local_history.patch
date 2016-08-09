@@ -1,0 +1,15 @@
+Index: app/src/main/java/com/t3intern/anli0001/androidpaydemo/HTTPRequester.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- app/src/main/java/com/t3intern/anli0001/androidpaydemo/HTTPRequester.java	(revision )
++++ app/src/main/java/com/t3intern/anli0001/androidpaydemo/HTTPRequester.java	(revision )
+@@ -127,6 +127,7 @@
+             return Integer.toString(HttpResult);
+         }
+         catch(IOException e) {
++            Log.e(TAG, "IOException occurred");
+             e.printStackTrace();
+         }
+         return null;
